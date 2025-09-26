@@ -1,7 +1,24 @@
 {
   "name": "The Overture",
   "chapters": [
-    { "name": "Session 1", "file": "Session 1.json" }
+    { "name": "Session 1", "file": "Session 1.json" },
+    { "name": "Session 2", "file": "Session 2.json" },
+    { "name": "Session 3", "file": "Session 3.json" },
+    { "name": "Session 4", "file": "Session 4.json" },
+    { "name": "Session 5", "file": "Session 5.json" },
+    { "name": "Session 6-7", "file": "Session 6-7.json" },
+    { "name": "Session 8-9", "file": "Session 8-9.json" },
+    { "name": "Session 10", "file": "Session 10.json" },
+    { "name": "Session 11", "file": "Session 11.json" },
+    { "name": "Session 12", "file": "Session 12.json" },
+    { "name": "Session 13", "file": "Session 13.json" },
+    { "name": "Session 14", "file": "Session 14.json" },
+    { "name": "Session 15", "file": "Session 15.json" },
+    { "name": "Session 16", "file": "Session 16.json" },
+    { "name": "Session 17", "file": "Session 17.json" },
+    { "name": "Session 18", "file": "Session 18.json" },
+    { "name": "Session 19-20", "file": "Session 19-20.json" },
+    { "name": "Finale", "file": "Finale.json" }
   ],
   "format": "json"
 }
