@@ -1,7 +1,7 @@
 {
   "name": "The Overture",
   "chapters": [
-    { "name": "Session 1", "file": "THE OVERTURE - Session 1.json" },
+    { "name": "Session 1", "file": "THE OVERTURE - Session 1.json" }
   ],
   "format": "json"
 }
