@@ -11,11 +11,7 @@
     { "name": "Day 3 - by character", "file": "Day 3 - Alt.json" },
     { "name": "Day 4 - by character", "file": "Day 4 - Alt.json" },
     { "name": "Day 5 - by character", "file": "Day 5 - Alt.json" },
-    { "name": "Day 6 - by character", "file": "Day 6 - Alt.json" },
-    { "name": "Session 17", "file": "Session 17.json" },
-    { "name": "Session 18", "file": "Session 18.json" },
-    { "name": "Session 19-20", "file": "Session 19-20.json" },
-    { "name": "Finale", "file": "Finale.json" }
+    { "name": "Day 6 - by character", "file": "Day 6 - Alt.json" }
   ],
   "format": "json"
 }
