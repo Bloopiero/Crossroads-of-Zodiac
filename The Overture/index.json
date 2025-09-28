@@ -2,16 +2,11 @@
   "name": "The Overture",
   "chapters": [
     { "name": "Day 1", "file": "Day 1 - Session 1.json" },
-    { "name": "Day 2 - by guide", "file": "Day 2.json" },
-    { "name": "Day 3 - by guide", "file": "Day 3.json" },
-    { "name": "Day 4 - by guide", "file": "Day 4.json" },
-    { "name": "Day 5 - by guide", "file": "Day 5.json" },
-    { "name": "Day 6 - by guide", "file": "Day 6.json" },
-    { "name": "Day 2 - by character", "file": "Day 2 - Alt.json" },
-    { "name": "Day 3 - by character", "file": "Day 3 - Alt.json" },
-    { "name": "Day 4 - by character", "file": "Day 4 - Alt.json" },
-    { "name": "Day 5 - by character", "file": "Day 5 - Alt.json" },
-    { "name": "Day 6 - by character", "file": "Day 6 - Alt.json" }
+    { "name": "Day 2", "file": "Day 2 - Alt.json" },
+    { "name": "Day 3", "file": "Day 3 - Alt.json" },
+    { "name": "Day 4", "file": "Day 4 - Alt.json" },
+    { "name": "Day 5", "file": "Day 5 - Alt.json" },
+    { "name": "Day 6", "file": "Day 6 - Alt.json" }
   ],
   "format": "json"
 }
