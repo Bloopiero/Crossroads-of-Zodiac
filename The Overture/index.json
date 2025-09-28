@@ -1,7 +1,7 @@
 {
   "name": "The Overture",
   "chapters": [
-    { "name": "Day 1", "file": "Day 1 - Session 1.json" },
+    { "name": "Day 1", "file": "Day 1.json" },
     { "name": "Day 2", "file": "Day 2 - by character.json" },
     { "name": "Day 3", "file": "Day 3 - by character.json" },
     { "name": "Day 4", "file": "Day 4 - by character.json" },
