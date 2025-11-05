@@ -6,7 +6,7 @@
     { "name": "Day 3", "file": "Day 3.json" },
     { "name": "Day 4", "file": "Day 4.json" },
     { "name": "Day 5", "file": "Day 5.json" },
-    { "name": "Finale", "file": "Finale_partial.json" }
+    { "name": "Finale", "file": "Finale.json" }
   ],
   "format": "json"
 }
